@@ -1,5 +1,5 @@
 # DDoS-Detection
-Classification of DDoS attack packets using Artificial Neural Network and Bi-directional Neural Network.
+Classification of DDoS attack packets using Artificial Neural Network and Bi-directional Recurrent Neural Network.
 
 ## Dataset Used
 Used sampled data from [Intrusion detection evaluation dataset (ISCXIDS2012)](https://www.unb.ca/cic/datasets/ids.html), an attack database that is a standard for judgment of attack detection tools.
